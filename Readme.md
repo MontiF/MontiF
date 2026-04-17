@@ -89,9 +89,13 @@ public class MontiF {
 
 </div>
 
+<div align="center">
+
 | SQL | NoSQL |
 |:---:|:---:|
 | MySQL · PostgreSQL · SQLite | MongoDB · Supabase · Firebase |
+
+</div>
 
 ### 🛠️ Tools & DevOps
 
