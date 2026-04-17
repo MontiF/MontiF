@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20👋,%20I'm%20MontiF&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20The%20C%20%2F%20C%23%20%2F%20Java%20God&descAlignY=58&descSize=18&descColor=d0d0ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20👋,%20I'm%20MontiF&fontSize=50&fontColor=00f5d4&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20The%20C%20%2F%20C%23%20%2F%20Java%20God&descAlignY=58&descSize=18&descColor=ffffff" />
 
 </div>
 
@@ -77,7 +77,7 @@ public class MontiF {
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,tailwind&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap&theme=dark&perline=7)](https://skillicons.dev)
 
 </div>
 
@@ -85,19 +85,19 @@ public class MontiF {
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,supabase,firebase&theme=dark&perline=6)](https://skillicons.dev)
 
 </div>
 
 | SQL | NoSQL |
 |:---:|:---:|
-| MySQL · PostgreSQL · SQLite · Oracle | MongoDB · Redis · Firebase |
+| MySQL · PostgreSQL · SQLite | MongoDB · Supabase · Firebase |
 
 ### 🛠️ Tools & DevOps
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio,idea&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio&theme=dark&perline=6)](https://skillicons.dev)
 
 </div>
 
@@ -116,42 +116,6 @@ public class MontiF {
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MontiF&theme=tokyonight&border=6a11cb&ring=2575fc&fire=ff6b35&currStreakLabel=2575fc)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MontiF/MontiF/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MontiF/MontiF/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MontiF/MontiF/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MontiF&theme=tokyonight&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📬 Connect with Me
-
-<div align="center">
-
-| Platform | Link |
-|:---:|:---:|
-| 📧 **Gmail** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelmonteagudoferia@gmail.com) |
 
 </div>
 
